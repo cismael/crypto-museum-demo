@@ -6,7 +6,7 @@
     "@drizzle/react-components": "^1.5.1",
     "@drizzle/react-plugin": "^1.5.1",
     "@drizzle/store": "^1.5.1",
-    "aws-sdk": "^2.677.0",
+    "aws-sdk": "^2.1118.0",
     "bootstrap": "^4.5.0",
     "react": "^16.11.0",
     "react-bootstrap": "^1.0.1",
